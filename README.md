@@ -1,4 +1,4 @@
-# classical-ml-algorithms
+# Simple Linear Regression
 
 SIMPLE LINEAR REGRESSION
 THEORY AND MATHEMATICAL BACKGROUND
