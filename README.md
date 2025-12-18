@@ -135,6 +135,8 @@ CONCLUSION
 Simple Linear Regression is a fundamental technique in machine learning and data analysis.
 Despite its simplicity, it provides valuable insights into data relationships and forms the foundation for more advanced predictive models.
 
+Results
+
 
 Plots
 Input Data:
